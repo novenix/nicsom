@@ -12,7 +12,7 @@ npm install platzom
 ```
 npm install platzom --save
 ```
-##Uso
+## Uso
 ```
 import platzom from 'platzom'
 
@@ -22,7 +22,7 @@ platzom("zarpar")//zarppe
 platzom("abecedario")//abece-dario
 platzom("sometemos")//SoMeTeMoS
 ```
-##Creditos
+## Creditos
 -[platzi](platzi.com)
 -Nicolas Torres
 
@@ -30,7 +30,7 @@ platzom("sometemos")//SoMeTeMoS
 [MIT](opensource.com/licences/MIT)
 
 
-###librerias de npm 
+## librerias de npm 
 "dependencies": {
     "babel-cli"
     "babel-preset-env" save,dev
@@ -38,7 +38,7 @@ platzom("sometemos")//SoMeTeMoS
     "mocha" para pruebas, save,dev
     "chai" para tomar valores esperados dave, dev
 
-##recordatorio para mi
+## recordatorio para mi
 instalar babel con npm i --save -dev babel-cli
 añadir a scripts de package :"build": "babel src/nicsom.js -d dist". dist es la carpeta a compartir
 
